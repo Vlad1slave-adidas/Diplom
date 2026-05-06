@@ -1,0 +1,130 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum VariableKind {
+  SCORE
+  GENRE
+  DURATION
+  AUDIENCE
+}
+
+enum MembershipFunctionType {
+  TRIANGULAR
+  LEFT_SHOULDER
+  RIGHT_SHOULDER
+  DISCRETE
+}
+
+enum CompatibilityLevel {
+  LOW
+  MEDIUM
+  HIGH
+}
+
+enum RuleConnector {
+  AND
+  OR
+}
+
+model Movie {
+  id               Int                @id @default(autoincrement())
+  slug             String             @unique
+  title            String
+  year             Int
+  country          String
+  genres           String[]
+  duration         Int
+  ageRating        Int
+  rating           Float
+  shortDescription String
+  description      String
+  poster           String
+  backdrop         String
+  provider         String
+  familyFriendly   Boolean            @default(false)
+  createdAt        DateTime           @default(now())
+  updatedAt        DateTime           @updatedAt
+  variableValues   MovieVariableValue[]
+}
+
+model FuzzyVariable {
+  id             Int                @id @default(autoincrement())
+  key            String             @unique
+  name           String
+  description    String?
+  kind           VariableKind
+  isActive       Boolean            @default(true)
+  exposeInSearch Boolean            @default(true)
+  displayOrder   Int                @default(0)
+  createdAt      DateTime           @default(now())
+  updatedAt      DateTime           @updatedAt
+  terms          FuzzyTerm[]
+  movieValues    MovieVariableValue[]
+  ruleConditions FuzzyRuleCondition[]
+}
+
+model FuzzyTerm {
+  id           Int                    @id @default(autoincrement())
+  variableId   Int
+  key          String
+  label        String
+  functionType MembershipFunctionType
+  a            Float?
+  b            Float?
+  c            Float?
+  isActive     Boolean                @default(true)
+  createdAt    DateTime               @default(now())
+  updatedAt    DateTime               @updatedAt
+  variable     FuzzyVariable          @relation(fields: [variableId], references: [id], onDelete: Cascade)
+
+  @@unique([variableId, key])
+}
+
+model MovieVariableValue {
+  id         Int           @id @default(autoincrement())
+  movieId     Int
+  variableId  Int
+  value       Float
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+  movie       Movie         @relation(fields: [movieId], references: [id], onDelete: Cascade)
+  variable    FuzzyVariable @relation(fields: [variableId], references: [id], onDelete: Cascade)
+
+  @@unique([movieId, variableId])
+}
+
+model FuzzyRule {
+  id                 Int                    @id @default(autoincrement())
+  name               String
+  description        String?
+  isActive           Boolean                @default(true)
+  weight             Float                  @default(1)
+  connector          RuleConnector          @default(AND)
+  outputLabel        String
+  outputFunctionType MembershipFunctionType
+  outputA            Float?
+  outputB            Float?
+  outputC            Float?
+  createdAt          DateTime               @default(now())
+  updatedAt          DateTime               @updatedAt
+  conditions         FuzzyRuleCondition[]
+}
+
+model FuzzyRuleCondition {
+  id                Int                @id @default(autoincrement())
+  ruleId            Int
+  variableId        Int
+  expectedLevel     CompatibilityLevel
+  createdAt         DateTime           @default(now())
+  updatedAt         DateTime           @updatedAt
+  rule              FuzzyRule          @relation(fields: [ruleId], references: [id], onDelete: Cascade)
+  variable          FuzzyVariable      @relation(fields: [variableId], references: [id], onDelete: Restrict)
+
+  @@unique([ruleId, variableId, expectedLevel])
+}
