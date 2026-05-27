@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="J0Uyf1509AG2Ft2-ESnI">
-    <mxGraphModel dx="7631" dy="2985" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4541" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1490,7 +1490,7 @@
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-1" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Начало" vertex="1">
           <mxGeometry height="60" width="100" x="1043" y="2980" as="geometry" />
         </mxCell>
-        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Просмотр главной страницы" vertex="1">
+        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" value="Просмотр главной страницы" vertex="1">
           <mxGeometry height="70" width="180" x="1003" y="3080" as="geometry" />
         </mxCell>
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-3" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -1569,7 +1569,7 @@
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-17" parent="wOBY1WiB_CBAD-tJVwAQ-15" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="БД" vertex="1">
           <mxGeometry height="30" width="60" x="25" y="5" as="geometry" />
         </mxCell>
-        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Просмотр каталога фильмов" vertex="1">
+        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" value="Просмотр каталога фильмов" vertex="1">
           <mxGeometry height="70" width="180" x="1003" y="3265.5" as="geometry" />
         </mxCell>
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-19" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -1642,7 +1642,7 @@
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="БД" vertex="1">
           <mxGeometry height="30" width="60" x="1255" y="3330.5" as="geometry" />
         </mxCell>
-        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Выбор фильтров и предпочтений" vertex="1">
+        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-32" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" value="Выбор фильтров и предпочтений" vertex="1">
           <mxGeometry height="70" width="180" x="1003" y="3452.25" as="geometry" />
         </mxCell>
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-33" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -1715,7 +1715,7 @@
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="БД" vertex="1">
           <mxGeometry height="30" width="60" x="1255" y="3517.25" as="geometry" />
         </mxCell>
-        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Формирование рекомендаций" vertex="1">
+        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-46" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" value="Формирование рекомендаций" vertex="1">
           <mxGeometry height="70" width="180" x="1003" y="3630" as="geometry" />
         </mxCell>
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-47" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -1788,7 +1788,7 @@
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="БД" vertex="1">
           <mxGeometry height="30" width="60" x="1255" y="3695" as="geometry" />
         </mxCell>
-        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Просмотр карточки фильма" vertex="1">
+        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-60" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" value="Просмотр карточки фильма" vertex="1">
           <mxGeometry height="70" width="180" x="1003" y="3812.9400000000005" as="geometry" />
         </mxCell>
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-61" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -1873,7 +1873,7 @@
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-76" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="Начало" vertex="1">
           <mxGeometry height="60" width="100" x="968" y="4090" as="geometry" />
         </mxCell>
-        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Авторизация" vertex="1">
+        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" value="Авторизация" vertex="1">
           <mxGeometry height="70" width="180" x="928" y="4190" as="geometry" />
         </mxCell>
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-78" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -1952,7 +1952,7 @@
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-92" parent="wOBY1WiB_CBAD-tJVwAQ-90" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="БД" vertex="1">
           <mxGeometry height="30" width="60" x="25" y="5" as="geometry" />
         </mxCell>
-        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Открытие административной панели" vertex="1">
+        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" value="Открытие административной панели" vertex="1">
           <mxGeometry height="70" width="180" x="928" y="4375.5" as="geometry" />
         </mxCell>
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-94" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -2025,7 +2025,7 @@
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="БД" vertex="1">
           <mxGeometry height="30" width="60" x="1180" y="4440.5" as="geometry" />
         </mxCell>
-        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Ведение каталога фильмов" vertex="1">
+        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" value="Ведение каталога фильмов" vertex="1">
           <mxGeometry height="70" width="180" x="928" y="4562.25" as="geometry" />
         </mxCell>
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-108" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -2098,7 +2098,7 @@
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-120" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="БД" vertex="1">
           <mxGeometry height="30" width="60" x="1180" y="4627.25" as="geometry" />
         </mxCell>
-        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-121" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Ведение переменных и термов" vertex="1">
+        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-121" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" value="Ведение переменных и термов" vertex="1">
           <mxGeometry height="70" width="180" x="928" y="4740" as="geometry" />
         </mxCell>
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-122" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -2171,7 +2171,7 @@
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-134" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="БД" vertex="1">
           <mxGeometry height="30" width="60" x="1180" y="4805" as="geometry" />
         </mxCell>
-        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-135" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Ведение правил нечеткого вывода" vertex="1">
+        <mxCell id="wOBY1WiB_CBAD-tJVwAQ-135" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" value="Ведение правил нечеткого вывода" vertex="1">
           <mxGeometry height="70" width="180" x="928" y="4922.9400000000005" as="geometry" />
         </mxCell>
         <mxCell id="wOBY1WiB_CBAD-tJVwAQ-136" connectable="0" parent="1" style="group" value="" vertex="1">
