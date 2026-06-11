@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="J0Uyf1509AG2Ft2-ESnI">
-    <mxGraphModel dx="6601" dy="2388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3823" dy="299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2413,6 +2413,43 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="130" y="5040" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sdS9Is4aGnlfEGkiUl52-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ведение сведений о фильме" vertex="1">
+          <mxGeometry height="60" width="130" x="-2520" y="4320" as="geometry" />
+        </mxCell>
+        <mxCell id="sdS9Is4aGnlfEGkiUl52-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ведение базы знаний" vertex="1">
+          <mxGeometry height="60" width="130" x="-2360" y="4377.25" as="geometry" />
+        </mxCell>
+        <mxCell id="sdS9Is4aGnlfEGkiUl52-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ввод пользовательских предпочтений" vertex="1">
+          <mxGeometry height="60" width="130" x="-2207" y="4450" as="geometry" />
+        </mxCell>
+        <mxCell id="sdS9Is4aGnlfEGkiUl52-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Расчёт балла совместимости" vertex="1">
+          <mxGeometry height="60" width="130" x="-2040" y="4510" as="geometry" />
+        </mxCell>
+        <mxCell id="sdS9Is4aGnlfEGkiUl52-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Формирование рекомендованного списка фильмов" vertex="1">
+          <mxGeometry height="60" width="130" x="-1860" y="4577.25" as="geometry" />
+        </mxCell>
+        <mxCell id="sdS9Is4aGnlfEGkiUl52-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Формирование карточки фильма" vertex="1">
+          <mxGeometry height="60" width="130" x="-1698" y="4637.25" as="geometry" />
+        </mxCell>
+        <mxCell id="sdS9Is4aGnlfEGkiUl52-31" edge="1" parent="1" source="sdS9Is4aGnlfEGkiUl52-25" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-2300" y="4330" as="sourcePoint" />
+            <mxPoint x="-2250" y="4280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sdS9Is4aGnlfEGkiUl52-32" edge="1" parent="1" source="sdS9Is4aGnlfEGkiUl52-26" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="sdS9Is4aGnlfEGkiUl52-28" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="-2060" y="4407" />
+              <mxPoint x="-2060" y="4540" />
+            </Array>
+            <mxPoint x="-2150" y="4410" as="sourcePoint" />
+            <mxPoint x="-2060" y="4540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sdS9Is4aGnlfEGkiUl52-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="База знаний" vertex="1">
+          <mxGeometry height="30" width="80" x="-2157.5" y="4380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
