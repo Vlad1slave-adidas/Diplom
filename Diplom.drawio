@@ -1075,12 +1075,12 @@
           <mxGeometry height="30" width="125" x="-2087.5" y="3675" as="geometry" />
         </mxCell>
         <mxCell id="apulBq40RKe6kiCTwQGG-46" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Карточка фильма с пояснением" vertex="1">
-          <mxGeometry height="14" width="110" x="-1890" y="3560" as="geometry" />
+          <mxGeometry height="14" width="110" x="-1890" y="3558" as="geometry" />
         </mxCell>
         <mxCell id="apulBq40RKe6kiCTwQGG-48" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-1906" y="3580" as="sourcePoint" />
-            <mxPoint x="-1728" y="3580.31" as="targetPoint" />
+            <mxPoint x="-1760" y="3580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="apulBq40RKe6kiCTwQGG-49" edge="1" parent="1" source="apulBq40RKe6kiCTwQGG-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="apulBq40RKe6kiCTwQGG-53">
@@ -1363,11 +1363,11 @@
         <mxCell id="apulBq40RKe6kiCTwQGG-99" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="-1904" y="3507" as="sourcePoint" />
-            <mxPoint x="-1726" y="3507.31" as="targetPoint" />
+            <mxPoint x="-1760" y="3507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="apulBq40RKe6kiCTwQGG-100" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Рекомендованный список фильмов" vertex="1">
-          <mxGeometry height="30" width="112" x="-1900" y="3477" as="geometry" />
+          <mxGeometry height="30" width="112" x="-1889" y="3476.42" as="geometry" />
         </mxCell>
         <mxCell id="apulBq40RKe6kiCTwQGG-103" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="ЭВМ" vertex="1">
           <mxGeometry height="30" width="60" x="-588" y="4040" as="geometry" />
