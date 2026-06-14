@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="J0Uyf1509AG2Ft2-ESnI">
-    <mxGraphModel dx="4596" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4044" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1062,7 +1062,7 @@
         <mxCell id="apulBq40RKe6kiCTwQGG-35" parent="1" style="text;whiteSpace=wrap;html=1;" value="База знаний рекомендательного модуля" vertex="1">
           <mxGeometry height="30" width="260" x="-2390" y="3502.42" as="geometry" />
         </mxCell>
-        <mxCell id="apulBq40RKe6kiCTwQGG-37" parent="1" style="text;whiteSpace=wrap;html=1;" value="Пользовательские предпочтения" vertex="1">
+        <mxCell id="apulBq40RKe6kiCTwQGG-37" parent="1" style="text;whiteSpace=wrap;html=1;" value="Параметры поискового запроса" vertex="1">
           <mxGeometry height="21" width="205" x="-2362.5" y="3532.42" as="geometry" />
         </mxCell>
         <mxCell id="apulBq40RKe6kiCTwQGG-38" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
