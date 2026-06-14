@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="J0Uyf1509AG2Ft2-ESnI">
-    <mxGraphModel dx="5181" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4596" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2264,7 +2264,7 @@
         <mxCell id="sdS9Is4aGnlfEGkiUl52-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ведение базы знаний" vertex="1">
           <mxGeometry height="60" width="130" x="-2360" y="4377.25" as="geometry" />
         </mxCell>
-        <mxCell id="sdS9Is4aGnlfEGkiUl52-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Ввод пользовательских предпочтений" vertex="1">
+        <mxCell id="sdS9Is4aGnlfEGkiUl52-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Формирование поискового запроса" vertex="1">
           <mxGeometry height="60" width="130" x="-2207" y="4437.25" as="geometry" />
         </mxCell>
         <mxCell id="sdS9Is4aGnlfEGkiUl52-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Расчёт балла совместимости" vertex="1">
@@ -2309,7 +2309,7 @@
             <mxPoint x="-2170" y="4290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sdS9Is4aGnlfEGkiUl52-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Значения предпочтений" vertex="1">
+        <mxCell id="sdS9Is4aGnlfEGkiUl52-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Параметры поиска" vertex="1">
           <mxGeometry height="30" width="60" x="-2133" y="4506.75" as="geometry" />
         </mxCell>
         <mxCell id="sdS9Is4aGnlfEGkiUl52-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Сведения о фильме" vertex="1">
@@ -2454,8 +2454,8 @@
             <mxPoint x="-2400" y="4460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bbakcz_QUpT7qSMcfyve-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Пользовательские предпочтения" vertex="1">
-          <mxGeometry height="30" width="60" x="-2570" y="4437" as="geometry" />
+        <mxCell id="bbakcz_QUpT7qSMcfyve-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Параметры поискового запроса" vertex="1">
+          <mxGeometry height="30" width="130" x="-2610" y="4432.25" as="geometry" />
         </mxCell>
         <mxCell id="bbakcz_QUpT7qSMcfyve-34" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -2806,7 +2806,7 @@
             <mxPoint x="-873.4200000000001" y="4832.9400000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Y2P_PXHz4gyo_ykPrsh-126" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" value="Ввод пользовательских предпочтений" vertex="1">
+        <mxCell id="5Y2P_PXHz4gyo_ykPrsh-126" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=0;strokeWidth=2;" value="Формирование поискового запроса" vertex="1">
           <mxGeometry height="70" width="180" x="-961" y="4865.5" as="geometry" />
         </mxCell>
         <mxCell id="5Y2P_PXHz4gyo_ykPrsh-127" connectable="0" parent="1" style="group" value="" vertex="1">
@@ -2815,7 +2815,7 @@
         <mxCell id="5Y2P_PXHz4gyo_ykPrsh-128" parent="5Y2P_PXHz4gyo_ykPrsh-127" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="" vertex="1">
           <mxGeometry height="65" width="130" as="geometry" />
         </mxCell>
-        <mxCell id="5Y2P_PXHz4gyo_ykPrsh-129" parent="5Y2P_PXHz4gyo_ykPrsh-127" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Параметры фильтров и предпочтений" vertex="1">
+        <mxCell id="5Y2P_PXHz4gyo_ykPrsh-129" parent="5Y2P_PXHz4gyo_ykPrsh-127" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Фильтры и предпочтения" vertex="1">
           <mxGeometry height="30" width="121.5" y="27.5" as="geometry" />
         </mxCell>
         <mxCell id="5Y2P_PXHz4gyo_ykPrsh-130" edge="1" parent="1" source="5Y2P_PXHz4gyo_ykPrsh-126" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
@@ -2848,7 +2848,7 @@
             <mxPoint x="-967.5" y="4905.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Y2P_PXHz4gyo_ykPrsh-133" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="&amp;nbsp;Выбранные фильтры и предпочтения" vertex="1">
+        <mxCell id="5Y2P_PXHz4gyo_ykPrsh-133" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="Параметры поиска" vertex="1">
           <mxGeometry height="52.5" width="178" x="-729" y="4810" as="geometry" />
         </mxCell>
         <mxCell id="5Y2P_PXHz4gyo_ykPrsh-134" edge="1" parent="1" source="5Y2P_PXHz4gyo_ykPrsh-126" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="5Y2P_PXHz4gyo_ykPrsh-133" value="">
@@ -2882,7 +2882,7 @@
         <mxCell id="5Y2P_PXHz4gyo_ykPrsh-141" parent="5Y2P_PXHz4gyo_ykPrsh-140" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="" vertex="1">
           <mxGeometry height="65" width="130" as="geometry" />
         </mxCell>
-        <mxCell id="5Y2P_PXHz4gyo_ykPrsh-142" parent="5Y2P_PXHz4gyo_ykPrsh-140" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Запрос на просмотр главной страницы" vertex="1">
+        <mxCell id="5Y2P_PXHz4gyo_ykPrsh-142" parent="5Y2P_PXHz4gyo_ykPrsh-140" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Запрос на просмотр страницы фильмов" vertex="1">
           <mxGeometry height="30" width="121.5" y="27.5" as="geometry" />
         </mxCell>
         <mxCell id="5Y2P_PXHz4gyo_ykPrsh-143" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="5Y2P_PXHz4gyo_ykPrsh-126" value="">
