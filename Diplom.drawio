@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="J0Uyf1509AG2Ft2-ESnI">
-    <mxGraphModel dx="6008" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5852" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2310,7 +2310,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sdS9Is4aGnlfEGkiUl52-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Параметры поиска" vertex="1">
-          <mxGeometry height="30" width="60" x="-2133" y="4506.75" as="geometry" />
+          <mxGeometry height="30" width="60" x="-2121" y="4527.25" as="geometry" />
         </mxCell>
         <mxCell id="sdS9Is4aGnlfEGkiUl52-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Сведения о фильме" vertex="1">
           <mxGeometry height="30" width="118" x="-2360" y="4320" as="geometry" />
