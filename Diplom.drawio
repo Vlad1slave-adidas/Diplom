@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="J0Uyf1509AG2Ft2-ESnI">
-    <mxGraphModel dx="6433" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6835" dy="1085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3420,7 +3420,7 @@
             <mxPoint x="-3500" y="5900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F1QjCzZTh63PllSlNxA7-30" edge="1" parent="1" style="fontSize=12;html=1;endArrow=ERmany;rounded=0;dashed=1;entryX=0.097;entryY=1.023;entryDx=0;entryDy=0;entryPerimeter=0;" target="F1QjCzZTh63PllSlNxA7-8" value="">
+        <mxCell id="F1QjCzZTh63PllSlNxA7-30" edge="1" parent="1" style="fontSize=12;html=1;endArrow=ERmany;rounded=0;dashed=1;entryX=0.094;entryY=0.997;entryDx=0;entryDy=0;entryPerimeter=0;" target="F1QjCzZTh63PllSlNxA7-8" value="">
           <mxGeometry height="100" relative="1" width="100" as="geometry">
             <mxPoint x="-3568" y="6180" as="sourcePoint" />
             <mxPoint x="-3568" y="5900" as="targetPoint" />
