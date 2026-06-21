@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="J0Uyf1509AG2Ft2-ESnI">
-    <mxGraphModel dx="7506" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7260" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2610,7 +2610,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5Y2P_PXHz4gyo_ykPrsh-60" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="Результат авторизации" vertex="1">
-          <mxGeometry height="52.5" width="143" x="-731" y="4274.5" as="geometry" />
+          <mxGeometry height="52.5" width="178" x="-731" y="4274.5" as="geometry" />
         </mxCell>
         <mxCell id="5Y2P_PXHz4gyo_ykPrsh-61" edge="1" parent="1" source="5Y2P_PXHz4gyo_ykPrsh-52" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="5Y2P_PXHz4gyo_ykPrsh-60" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -2689,7 +2689,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5Y2P_PXHz4gyo_ykPrsh-90" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="Обновленные данные каталога фильмов" vertex="1">
-          <mxGeometry height="52.5" width="203" x="-731" y="4456.75" as="geometry" />
+          <mxGeometry height="52.5" width="177" x="-731" y="4456.75" as="geometry" />
         </mxCell>
         <mxCell id="5Y2P_PXHz4gyo_ykPrsh-91" edge="1" parent="1" source="5Y2P_PXHz4gyo_ykPrsh-82" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="5Y2P_PXHz4gyo_ykPrsh-90" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -2762,7 +2762,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5Y2P_PXHz4gyo_ykPrsh-104" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="Обновленные данные переменной, правила или термов" vertex="1">
-          <mxGeometry height="52.5" width="179" x="-730" y="4634.5" as="geometry" />
+          <mxGeometry height="52.5" width="178" x="-730" y="4634.5" as="geometry" />
         </mxCell>
         <mxCell id="5Y2P_PXHz4gyo_ykPrsh-105" edge="1" parent="1" source="5Y2P_PXHz4gyo_ykPrsh-96" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="5Y2P_PXHz4gyo_ykPrsh-104" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -2907,7 +2907,7 @@
             <mxPoint x="-974.5" y="5083.44" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Y2P_PXHz4gyo_ykPrsh-147" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="Ранжированный список фильмов" vertex="1">
+        <mxCell id="5Y2P_PXHz4gyo_ykPrsh-147" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="Рекомендованный список фильмов" vertex="1">
           <mxGeometry height="52.5" width="178" x="-736" y="4987.94" as="geometry" />
         </mxCell>
         <mxCell id="5Y2P_PXHz4gyo_ykPrsh-148" edge="1" parent="1" source="5Y2P_PXHz4gyo_ykPrsh-139" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="5Y2P_PXHz4gyo_ykPrsh-147" value="">
@@ -2981,7 +2981,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5Y2P_PXHz4gyo_ykPrsh-161" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="Карточка фильма" vertex="1">
-          <mxGeometry height="52.5" width="143" x="-736" y="5170.88" as="geometry" />
+          <mxGeometry height="52.5" width="178" x="-736" y="5170.88" as="geometry" />
         </mxCell>
         <mxCell id="5Y2P_PXHz4gyo_ykPrsh-162" edge="1" parent="1" source="5Y2P_PXHz4gyo_ykPrsh-153" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="5Y2P_PXHz4gyo_ykPrsh-161" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
