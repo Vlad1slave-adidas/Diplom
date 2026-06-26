@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="J0Uyf1509AG2Ft2-ESnI">
-    <mxGraphModel dx="13217" dy="2388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="10568" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3354,10 +3354,10 @@
             <mxPoint x="-3410.25" y="6040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F1QjCzZTh63PllSlNxA7-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Справочник характеристик фильма&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;# * код&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;* название&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;о краткое название&lt;/div&gt;" vertex="1">
+        <mxCell id="F1QjCzZTh63PllSlNxA7-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Справочник характеристик фильма&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;# * код&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;* название&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;о краткое название&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="147.5" x="-3316" y="5700" as="geometry" />
         </mxCell>
-        <mxCell id="F1QjCzZTh63PllSlNxA7-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Значение характеристики фильма&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;# * номер&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;* дата&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;о значнеие&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;о описание&lt;/div&gt;" vertex="1">
+        <mxCell id="F1QjCzZTh63PllSlNxA7-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Значение характеристики фильма&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;# * номер&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;* дата&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;о значнеие&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;о описание&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="230" x="-3588" y="5690" as="geometry" />
         </mxCell>
         <mxCell id="F1QjCzZTh63PllSlNxA7-10" edge="1" parent="1" source="F1QjCzZTh63PllSlNxA7-7" style="fontSize=12;html=1;endArrow=ERmany;rounded=0;dashed=1;exitX=0.005;exitY=0.464;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" target="F1QjCzZTh63PllSlNxA7-8" value="">
@@ -3378,13 +3378,13 @@
         <mxCell id="F1QjCzZTh63PllSlNxA7-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Правило&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;# * код&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;* название&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;о описание&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="90" x="-3890" y="6055" as="geometry" />
         </mxCell>
-        <mxCell id="F1QjCzZTh63PllSlNxA7-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Значение характеристики правила&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;# * номер&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;* дата&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;о значнеие&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;о описание&lt;/div&gt;" vertex="1">
+        <mxCell id="F1QjCzZTh63PllSlNxA7-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Значение характеристики правила&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;# * номер&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;* дата&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;о значнеие&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;о описание&lt;/div&gt;" vertex="1">
           <mxGeometry height="140" width="157" x="-3964" y="5850" as="geometry" />
         </mxCell>
-        <mxCell id="F1QjCzZTh63PllSlNxA7-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Справочник характеристик правила&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;# * код&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;* название&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;о краткое название&lt;/div&gt;" vertex="1">
+        <mxCell id="F1QjCzZTh63PllSlNxA7-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Справочник характеристик правила&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;# * код&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;* название&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;о краткое название&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="150" x="-3760.75" y="5847" as="geometry" />
         </mxCell>
-        <mxCell id="F1QjCzZTh63PllSlNxA7-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Значение характеристики результата поиска&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;# * номер&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;* дата&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;о значнеие&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;о описание&lt;/div&gt;" vertex="1">
+        <mxCell id="F1QjCzZTh63PllSlNxA7-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Значение характеристики результата поиска&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;# * номер&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;* дата&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;о значнеие&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;о описание&lt;/div&gt;" vertex="1">
           <mxGeometry height="150" width="191" x="-4030" y="5480" as="geometry" />
         </mxCell>
         <mxCell id="F1QjCzZTh63PllSlNxA7-18" edge="1" parent="1" source="F1QjCzZTh63PllSlNxA7-15" style="fontSize=12;html=1;endArrow=ERmany;rounded=0;dashed=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.014;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;" target="F1QjCzZTh63PllSlNxA7-14" value="">
@@ -3402,7 +3402,7 @@
             <mxPoint x="-4140.25" y="5570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F1QjCzZTh63PllSlNxA7-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Справочник характеристик результата поиска&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;# * код&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;* название&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;о краткое название&lt;/div&gt;" vertex="1">
+        <mxCell id="F1QjCzZTh63PllSlNxA7-23" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Справочник характеристик результата поиска&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;# * код&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;* название&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;о краткое название&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="147.5" x="-3721" y="5487" as="geometry" />
         </mxCell>
         <mxCell id="F1QjCzZTh63PllSlNxA7-24" edge="1" parent="1" source="F1QjCzZTh63PllSlNxA7-1" style="fontSize=12;html=1;endArrow=ERmany;rounded=0;dashed=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.346;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;" target="F1QjCzZTh63PllSlNxA7-8" value="">
@@ -3411,7 +3411,7 @@
             <mxPoint x="-3482.25" y="5730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F1QjCzZTh63PllSlNxA7-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Поисковый запрос&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;# * код&amp;nbsp;&lt;/div&gt;" vertex="1">
+        <mxCell id="F1QjCzZTh63PllSlNxA7-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Поисковый запрос&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&amp;nbsp; &amp;nbsp;# * код&amp;nbsp;&lt;/div&gt;" vertex="1">
           <mxGeometry height="70" width="110" x="-3556" y="5920" as="geometry" />
         </mxCell>
         <mxCell id="F1QjCzZTh63PllSlNxA7-29" edge="1" parent="1" source="F1QjCzZTh63PllSlNxA7-28" style="fontSize=12;html=1;endArrow=ERmany;rounded=0;dashed=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.378;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" target="F1QjCzZTh63PllSlNxA7-8" value="">
